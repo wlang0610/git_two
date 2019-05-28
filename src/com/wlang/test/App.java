@@ -3,6 +3,6 @@ package com.wlang.test;
 public class App {
     public static void main(String[] args) {
         System.out.println("hahha");
-        System.out.println("heihei");
+        System.out.println("哈哈");
     }
 }
